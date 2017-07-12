@@ -6,7 +6,7 @@ body {
 
 .header {
 	background-color: #FFF;
-	height: 45px;
+	height: 47px;
 	position: fixed;
 	top: 0px;
 	width: 100%;
@@ -14,8 +14,8 @@ body {
 }
 
 .logo {
-	top: 10000px;
-	left: 100px;
+	margin-top: 5px;
+	margin-left: 10px;
 }
 
 .navigation {
@@ -43,6 +43,15 @@ li {
 
 .bold {
 	font-style: bold;
+}
+
+a {
+	text-decoration: none;
+}
+
+h3 {
+	color: #429bf4;
+	font-style: regular;
 }
 
 #article-list {
