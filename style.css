@@ -60,6 +60,10 @@ h5 {
 	color: white;
 }
 
+p {
+	font-family: sans-serif;
+}
+
 #article-list {
   background-color: #FFF;
   border: 2px solid #FFF;
@@ -69,7 +73,7 @@ h5 {
   width: 90%;
 }
 
-#article-position {
+article {
 	margin-left: 10px;
 }
 
