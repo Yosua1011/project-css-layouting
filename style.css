@@ -21,16 +21,18 @@ body {
 .navigation {
   overflow-y: auto;
   position: fixed;
-  right: 30px;
   top: 0;
-  text-align: right;
+  right: 15px;
   width: 100%;
   word-spacing: 1.5em;
   z-index: 1000;
+  text-align: right;
+  float: right;
 }
 
 li {
 	display: inline-block;
+	list-style: none;
 	cursor: pointer; 
 	cursor: hand;
 }
