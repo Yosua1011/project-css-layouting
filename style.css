@@ -62,16 +62,20 @@ h5 {
 	color: white;
 }
 
+p {
+	font-family: sans-serif;
+}
+
 #article-list {
   background-color: #FFF;
   border: 2px solid #FFF;
   border-radius: 10px;
   margin: 90px auto 20px auto;
   padding: 10px 0px 10px 0px;
-  width: 90%;
+  width: 68%;
 }
 
-#article-position {
+article {
 	margin-left: 10px;
 }
 
